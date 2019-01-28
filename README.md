@@ -1,9 +1,9 @@
-# Backend to Start Bootstrap - Resume (https://startbootstrap.com/template-overviews/resume/)
+# Backend to Start Bootstrap - Resume Template (https://startbootstrap.com/template-overviews/resume/)
 
 ## Introduction
 
-Backend to Resume Bootstrap Template.
-Easy configuration theme.
+Backend to Resume Bootstrap Template.  
+Easy configuration theme.  
 It's a training project.
 
 ### Backend Language : French
